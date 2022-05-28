@@ -72,7 +72,6 @@ end)
 c:Button("Gamepass",function()
     game:GetService("Players").nottoxicnz.Gamepasses.TripleHatch.Value = true
     game:GetService("Players").nottoxicnz.Gamepasses.Teleport.Value = true
-end
 end)
 
 
